@@ -24,6 +24,20 @@ def _load_json(filepath):
 
 
 _CITATION = """
+@article{Shen2022MultiLexSum,
+    author    = {Zejiang Shen and
+                Kyle Lo and
+                Lauren Yu and
+                Nathan Dahlberg and
+                Margo Schlanger and
+                Doug Downey},
+    title     = {Multi-LexSum: Real-World Summaries of Civil Rights Lawsuits at Multiple Granularities},
+    journal   = {CoRR},
+    volume    = {abs/2206.10883},
+    year      = {2022},
+    url       = {https://doi.org/10.48550/arXiv.2206.10883},
+    doi       = {10.48550/arXiv.2206.10883}
+}
 """  # TODO
 
 _DESCRIPTION = """
