@@ -10,6 +10,7 @@ Multi-LexSum is a multi-doc summarization dataset for civil rights litigation la
 
 ```python
 from datasets import load_dataset
+# please install HuggingFace datasets by pip install datasets 
 
 multi_lexsum = load_dataset("allenai/multi_lexsum", name="v20220616")
 # Download multi_lexsum locally and load it as a Dataset object 
