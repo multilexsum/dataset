@@ -46,7 +46,8 @@ Multi-LexSum is a multi-doc summarization dataset for civil rights litigation la
 
 _HOMEPAGE = "https://multilexsum.github.io"
 
-_BASE_URL = "https://ai2-s2-research.s3.us-west-2.amazonaws.com/multilexsum/releases"
+# _BASE_URL = "https://ai2-s2-research.s3.us-west-2.amazonaws.com/multilexsum/releases"
+_BASE_URL = "https://huggingface.co/datasets/allenai/multi_lexsum/resolve/main/releases"
 _FILES = {
     "train": "train.json",
     "dev": "dev.json",
