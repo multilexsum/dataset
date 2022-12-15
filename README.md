@@ -1,10 +1,18 @@
 # Multi-LexSum: Real-world Summaries of Civil Rights Lawsuits at Multiple Granularities
 
-<a href="https://arxiv.org/abs/2206.10883"><img src="https://img.shields.io/badge/arXiv-2206.10883-b31b1b.svg" title="Multi-LexSum Paper"></a>
+<a href="https://multilexsum.github.io" style="display: inline-block;">
+<img src="https://img.shields.io/badge/-homepage-informational.svg?logo=jekyll" title="Multi-LexSum Paper" style="margin-top: 0.25rem; margin-bottom: 0.25rem"></a>  
+<a href="https://arxiv.org/abs/2206.10883" style="display: inline-block;">
+<img src="https://img.shields.io/badge/NeurIPS-2022-9cf" title="Multi-LexSum is accepted in NeurIPS 2022" style="margin-top: 0.25rem; margin-bottom: 0.25rem"></a>
 
 Multi-LexSum is a multi-doc summarization dataset for civil rights litigation lawsuits with summaries of three granularities. 
 
 **Update: Multi-LexSum is now on HuggingFace Datasets Hub! Check [allenai/multi_lexsum](https://huggingface.co/datasets/allenai/multi_lexsum).**
+
+## Talk @ NeurIPS 2022 
+
+[![Watch the video](https://img.youtube.com/vi/C-fwW_ZhkE8/0.jpg)](https://youtu.be/C-fwW_ZhkE8)
+
 
 ## Quick Start 
 
